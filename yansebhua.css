@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(144, 240, 240);
+}
+
+h2 {
+    color: rgb(190, 143, 199);
+}
+
+hr {
+    height: 6px;
+    width: 100%;
+    border-style: ridge none none;
+    border-width: 6px;
+    border-color: rgb(127, 153, 162);
+}
+
+p {
+    color: #d68ecb;
+}
+
+li {
+    color: #d68ecb;
+}
+
+td {
+    color: #d68ecb;
+}
+
+a {
+    color: #df6363;
+}
+
+a:hover {
+    color: #e673cf;
+}
+
+.introduction {
+    background-color: #eed0d0;
+}
+
+#tyhgtf {
+    background-color: #eed0d0;
+}
